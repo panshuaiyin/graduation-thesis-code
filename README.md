@@ -1,6 +1,12 @@
 # graduation-thesis-code
 基于股权激励事件的因子选股多头策略，学位论文的代码部分，可下载使用，谢绝转载
 
+数据压缩文件从下面这个链接下载，和代码文件放到一个目录下解压：
+
+链接：https://pan.baidu.com/s/1HIeihrZcmPvgPvF-WPepTQ 
+
+提取码：5lpf 
+
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
  <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
